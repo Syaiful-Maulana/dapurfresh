@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.swiper-pagination-bullet-active {
+    width: 18px;
+    height: 8px;
+    border-radius: 20px;
+}
